@@ -1,7 +1,5 @@
 package com.desperado;
 
-import org.omg.PortableInterceptor.INACTIVE;
-
 public class Router {
     private String fromStation; //出发站
     private String toStation; //到达站
